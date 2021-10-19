@@ -309,8 +309,6 @@ export default function WithMaterialUI() {
             </FormLabel>
             <Slider
               aria-label="Restricted values"
-              // valueLabelFormat={valueLabelFormat}
-              // getAriaValueText={valuetext}
               step={null}
               marks={marks}
               max={3000}
