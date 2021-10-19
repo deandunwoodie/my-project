@@ -1,1 +1,11 @@
-.Update {}
+.text {
+  padding: 15px;
+}
+
+/* .pad {
+  padding: 50px;
+} */
+
+.box {
+  padding: 50px;
+}

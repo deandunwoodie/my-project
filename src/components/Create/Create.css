@@ -1,1 +1,19 @@
-.Create {}
+.Create {
+}
+
+.button {
+  display: block;
+  width: 100%;
+}
+
+.text {
+  margin-bottom: 25px;
+}
+
+/* .pad {
+    padding: 50px;
+  } */
+
+.box {
+  padding: 50px;
+}
